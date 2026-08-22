@@ -28,8 +28,6 @@ https://github.com/user-attachments/assets/2aa0289f-1cc7-490d-9ced-269abb242b4f
 ### Tools Used
 `Microsoft Excel` • `Power Query` • `Pivot Tables` • `Pivot Charts` • `Slicers`
 
-### Quick Access
-- [View Excel File](./Dashboard%201.xlsm)
 
 ---
 
@@ -50,8 +48,6 @@ https://github.com/user-attachments/assets/9270d2f8-f40b-4431-b9e2-7037d822b3a2
 ### Tools Used
 `Microsoft Excel` • `Power Query` • `Pivot Tables` • `Pivot Charts` • `Slicers`
 
-### Quick Access
-- [View Excel File](./Dashboard%202.xlsm)
 ---
 
 ## Project Structure
